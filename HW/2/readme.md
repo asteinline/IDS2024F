@@ -1,4 +1,4 @@
-### Programming Languages Chronology
+Programming Languages Chronology
 
 1. **FORTRAN** - 1957
 2. **LISP** - 1958
@@ -13,7 +13,7 @@
 11. **Python** - 1991
 12. **sh** - 1977
 
-### Decades of Development
+Decades of Development
 - FORTRAN: 1950s
 - LISP: 1950s
 - ALGOL 58: 1950s
@@ -27,75 +27,75 @@
 - Python: 1990s
 - sh: 1970s
 
-### ENIAC
+ENIAC
 **ENIAC** stands for **Electronic Numerical Integrator and Computer**.
 
-### Integer Representation in Computers
+Integer Representation in Computers
 Everything is represented by integers in computers because computers operate using binary (0s and 1s), which can be easily processed as integers.
 
-### Fastest Part of Computer Memory
+Fastest Part of Computer Memory
 The fastest part of computer memory is **register memory**.
 
-### Slowest Storage Device
+Slowest Storage Device
 The slowest storage device typically integrated with computers is the **hard disk drive (HDD)**.
 
-### Smallest Unit of Information
+Smallest Unit of Information
 The smallest unit of information in computer science is a **bit**.
 
-### Closest Language to Machine Code
+Closest Language to Machine Code
 (A) The closest programming language to machine code is **assembly language**.
 (B) Yes, it typically needs interpretation or assembly to become machine-comprehensible.
 
-### Oldest High-Level Programming Language
+Oldest High-Level Programming Language
 (A) The oldest high-level programming language still in active daily use is **FORTRAN**.
 (B) It is approximately **seven decades old** (created in the 1950s).
 
-### Second-Generation Programming Language
+Second-Generation Programming Language
 (A) A second-generation programming language is **assembly language**.
 (B) Fortran, C, C++, MATLAB, Python, and R are all **third-generation** programming languages.
 
-### Decades of C, C++, and MATLAB/Python Creation
+Decades of C, C++, and MATLAB/Python Creation
 - C: 1970s
 - C++: 1980s
 - MATLAB: 1980s; Python: 1990s
 
-### Ancestor Programming Languages
+Ancestor Programming Languages
 - **C**: An ancestor programming language of C is **B**.
 - **C++**: An ancestor programming language of C++ is **C**.
 - **MATLAB**: An ancestor is **Fortran**; **Python**: An ancestor is **ABC**.
 
-### Fastest Part of Memory Hierarchy
+Fastest Part of Memory Hierarchy
 The fastest part of the memory in the memory hierarchy of modern computers is **registers**.
 
-### Smallest Memory Unit in Hierarchy
+Smallest Memory Unit in Hierarchy
 The smallest memory unit in the memory hierarchy of modern computers is typically a **byte** (8 bits).
 
-### Speed Comparisons
+Speed Comparisons
 - Access to register memory is approximately **100 times faster** than RAM.
 - Access to RAM is about **5 to 10 times faster** than typical SSDs.
 - Access to RAM is about **100 to 200 times faster** than typical HDDs.
 
-### Primary Roles of Transistors
+Primary Roles of Transistors
 The primary roles of transistors in computers include acting as **switches**, **amplifiers**, and **signal modulators**.
 
-### Limitations on Transistor Count
+Limitations on Transistor Count
 We cannot continuously add more transistors to make computers faster due to issues like **heat dissipation**, **power consumption**, and **physical limitations** (like miniaturization limits).
 
-### CPU Cycle Tasks
+CPU Cycle Tasks
 The three tasks accomplished within a CPU cycle are **fetching**, **decoding**, and **executing** instructions.
 
-### CPU Cycles Comparison
+CPU Cycles Comparison
 Yes, a powerful computer with more CPU cycles can be slower than a computer with fewer CPU cycles if the latter has better **memory access speed** or more efficient architecture.
 
-### Bottleneck of Speed
+Bottleneck of Speed
 The bottleneck of speed in modern computers is often **memory access** rather than CPU clocks, primarily due to the slower speed of RAM compared to CPU cycles.
 
-### Differences in Scaling
+Differences in Scaling
 - **Dennard Scaling** refers to the phenomenon where as transistors get smaller, their power density stays constant, allowing for more transistors without increasing power consumption.
 - **MOSFET Scaling** involves the reduction in the size of the transistor components themselves.
 - **Moore’s Law** predicts that the number of transistors on a chip will double approximately every two years, leading to increased performance.
 
-### Chessboard Rice Problem
+Chessboard Rice Problem
 - To fill the last (64th) square: **2^63 grains**.
 - Total grains for all squares: **2^64 - 1 grains**.
 - Total pounds of rice: 
@@ -105,26 +105,26 @@ The bottleneck of speed in modern computers is often **memory access** rather th
 
 To solve the problem:
 
-### Grains in the Last Square
+Grains in the Last Square
 The number of grains in the last (64th) square is given by the formula for geometric progression:
 - Grains in the nth square = \(2^{(n-1)}\)
 - For the 64th square: \(2^{63} = 9,223,372,036,854,775,808\) grains.
 
-### Total Grains for All Squares
+Total Grains for All Squares
 To find the total grains for all squares:
 - Total grains = \(2^0 + 2^1 + 2^2 + ... + 2^{63}\)
 - This can be calculated as \(2^{64} - 1 = 18,446,744,073,709,551,615\) grains.
 
-### Pounds of Rice
+Pounds of Rice
 To convert grains to pounds:
 - Total grains: \(18,446,744,073,709,551,615\)
 - Pounds of rice = \(\frac{18,446,744,073,709,551,615}{7000} \approx 2,635,000,000,000\) pounds.
 
-### Years to Produce Rice
+Years to Produce Rice
 Given the world production of rice is roughly \(2 \times 10^{12}\) lbs per year:
 - Years to produce the required amount = \(\frac{2,635,000,000,000}{2,000,000,000,000} \approx 1.3175\) years.
 
-### Summary
+Summary
 - Grains in the 64th square: **9,223,372,036,854,775,808**
 - Total grains: **18,446,744,073,709,551,615**
 - Pounds of rice: **2,635,000,000,000**
